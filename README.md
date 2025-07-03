@@ -1,2 +1,0 @@
-# reitsbackend
-reits codebase
